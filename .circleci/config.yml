@@ -13,6 +13,6 @@ jobs:
       - checkout
       # install dependencies in both apps
       - run:
-          name: hello
+          name: marhaba
           command: |
-            echo "hello-world"
+            echo "marhaba-world"
